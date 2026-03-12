@@ -1,7 +1,8 @@
 # reality-tor-proxy-deployer
 
-[![Language: RU](https://img.shields.io/badge/Language-RU-lightgrey)](README.md)
-[![Language: EN](https://img.shields.io/badge/Language-EN-blue)](README.en.md)
+<p align="center">
+  <a href="./README.md">Русский</a> · <strong>English</strong>
+</p>
 
 Python script for automated deployment of `VLESS + TCP + REALITY` with outbound traffic routed through `Tor SOCKS5` on a remote `Ubuntu 22.04` server.
 
