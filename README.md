@@ -1,4 +1,7 @@
-# VLESS + REALITY -> Tor Deployer
+# reality-tor-proxy-deployer
+
+[![Language: RU](https://img.shields.io/badge/Language-RU-blue)](README.md)
+[![Language: EN](https://img.shields.io/badge/Language-EN-lightgrey)](README.en.md)
 
 Python-скрипт для автоматического разворачивания `VLESS + TCP + REALITY` с исходящим трафиком через `Tor SOCKS5` на удаленном сервере `Ubuntu 22.04`.
 
@@ -53,8 +56,8 @@ Python-скрипт для автоматического разворачива
 ## Установка
 
 ```bash
-git clone <your-repo-url>
-cd vless-tor
+git clone https://github.com/avokadni/reality-tor-proxy-deployer.git
+cd reality-tor-proxy-deployer
 python3 -m pip install -r requirements.txt
 ```
 
